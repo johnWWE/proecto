@@ -1,0 +1,6 @@
+operaciones:
+producto
+suma 
+resta
+inversa
+transpuesta
